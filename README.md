@@ -82,7 +82,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--Visitors/End of Page-->
 [![Visitors](https://komarev.com/ghpvc/?username=lennolium&label=PROFILE+VIEWS&logoColor=0e76a8&style=for-the-badge)](https://github.com/Lennolium)
 
+<br>
 
+`Icon made by Freepik from www.flaticon.com. Icon slightly modified by me.`
+
+  
 [website]: https://github.com/Lennolium
 [linkedin]: https://www.linkedin.com/in/lennart-haack-59b7a3237/
 [instagram]: https://instagram.com/lennarthaack
