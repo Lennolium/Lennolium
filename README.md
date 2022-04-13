@@ -2,7 +2,7 @@
 
 <!-- These are all placeholders until I'm a real professional :D -->
 [![Website](https://img.shields.io/website?label=lennolium.dev&style=for-the-badge&url=https://github.com/Lennolium)](https://github.com/Lennolium)
-[![Linkedin](https://img.shields.io/twitter/follow/abhisheknaiidu?color=0E76A8&label=%40Lennarthaack&logo=linkedin&logoColor=0e76a8&style=for-the-badge)](https://linkedin.com/in/lennarthaack)
+[![Linkedin](https://img.shields.io/twitter/follow/abhisheknaiidu?color=0E76A8&label=%40Lennarthaack&logo=linkedin&logoColor=0e76a8&style=for-the-badge)](https://www.linkedin.com/in/lennart-haack-59b7a3237/)
 [![Instagram](https://img.shields.io/twitter/follow/kuketzblog?color=e23f5d&label=%40Lennarthaack&logo=instagram&style=for-the-badge)](https://www.instagram.com/lennarthaack/)
 
 <br>
@@ -70,7 +70,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 [website]: https://github.com/Lennolium
-[linkedin]: https://linkedin.com/in/lennarthaack
+[linkedin]: https://www.linkedin.com/in/lennart-haack-59b7a3237/
 [instagram]: https://instagram.com/lennarthaack
 
 <!-- Credits for this awesome README.md go to JoeMatt. Thanks for your great work! -->
