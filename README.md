@@ -8,10 +8,10 @@
 <br>
 
 <!--Introduction and GIF-->
-hi, i'm Abhishek Naidu, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
-i take great care in the experience, architecture, and code quality of the things I build.<img align="right" alt="GIF" src="https://github.com/Lennolium/Lennolium/blob/main/icon.png?raw=true" width="500" height="320" />
+Hey, I'm Lennart Haack, a passionate self-taught full stack web developer and a freelance software engineer from Germany. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
+I take great care in the experience, architecture, and code quality of the things I build.<img align="right" alt="GIF" src="https://github.com/Lennolium/Lennolium/blob/main/icon.png?raw=true" width="500" height="320" />
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I'm also an open-source enthusiast and maintainer. I've learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 <!--Language and Tools-->
 **Languages and Tools:**
@@ -40,12 +40,18 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <br><br>
 
 <!--Stats-->
-![Lennolium's GitHub stats](https://github-readme-stats.vercel.app/api?username=lennolium&show_icons=true&theme=default&count_private=true&hide_border=true) <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lennolium&hide_border=true" />
-
+![Lennolium's GitHub stats](https://github-readme-stats.vercel.app/api?username=lennolium&show_icons=true&theme=default&count_private=true&hide_border=true) 
 
 <br>
-
 <!--Detailed Info-->
+<details>	
+  <br />
+  <summary><b>🔥 Github Streaks</b></summary>
+  	<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lennolium&hide_border=true" />	
+	
+</details>
+
+
 <details>	
   <br />
   <summary><b>⚙️ Hardware & Software</b></summary>
