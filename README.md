@@ -95,7 +95,7 @@ I'm also an open-source enthusiast and maintainer. I've learned a lot from the o
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C62C2C&center=true&vCenter=true&width=700&lines=Show+some+%E2%9D%A4%EF%B8%8F+by+starring+some+of+my+repositories!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0e76a8&center=true&vCenter=true&width=700&lines=Show+some+%E2%9D%A4%EF%B8%8F+by+starring+some+of+my+repositories!)](https://git.io/typing-svg)
 	
 </div>
 
