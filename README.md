@@ -4,7 +4,6 @@
 [![Website](https://img.shields.io/website?label=lennolium.dev&style=for-the-badge&url=https://github.com/Lennolium)](https://github.com/Lennolium)
 [![Linkedin](https://img.shields.io/twitter/follow/abhisheknaiidu?color=0E76A8&label=%40Lennarthaack&logo=linkedin&logoColor=0e76a8&style=for-the-badge)](https://linkedin.com/in/lennarthaack)
 [![Instagram](https://img.shields.io/twitter/follow/kuketzblog?color=e23f5d&label=%40Lennarthaack&logo=instagram&style=for-the-badge)](https://www.instagram.com/lennarthaack/)
-
 [![Instagram](https://komarev.com/ghpvc/?username=lennolium&label=PROFILE+VIEWS&logoColor=0e76a8&style=for-the-badge)](https://github.com/Lennolium)
 
 
