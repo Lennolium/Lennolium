@@ -90,7 +90,7 @@ I'm also an open-source enthusiast and maintainer. I've learned a lot from the o
 
 <!--Visitors/End of Page-->
 [![Visitors](https://komarev.com/ghpvc/?username=lennolium&label=PROFILE+VIEWS&logoColor=0e76a8&style=for-the-badge)](https://github.com/Lennolium)
-[![Donate](https://img.shields.io/twitter/follow/kuketzblog?color=e23f5d&label=Donate&logo=paypal&style=for-the-badge)](https://www.instagram.com/lennarthaack/)
+[![Donate](https://img.shields.io/badge/Donate&label=Paypal&color=grey&logo=paypal&style=for-the-badge)](https://www.instagram.com/lennarthaack/)
 
 #
 
