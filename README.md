@@ -1,17 +1,19 @@
 ### Hi there, I'm [Lennart][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!-- These are all placeholders until I'm a real professional :D -->
+<!-- Badges. These are all placeholders until I'm a real professional :D -->
 [![Website](https://img.shields.io/website?label=lennolium.dev&style=for-the-badge&url=https://github.com/Lennolium)](https://github.com/Lennolium)
 [![Linkedin](https://img.shields.io/twitter/follow/abhisheknaiidu?color=0E76A8&label=%40Lennarthaack&logo=linkedin&logoColor=0e76a8&style=for-the-badge)](https://www.linkedin.com/in/lennart-haack-59b7a3237/)
 [![Instagram](https://img.shields.io/twitter/follow/kuketzblog?color=e23f5d&label=%40Lennarthaack&logo=instagram&style=for-the-badge)](https://www.instagram.com/lennarthaack/)
 
 <br>
 
+<!--Introduction and GIF-->
 hi, i'm Abhishek Naidu, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
 i take great care in the experience, architecture, and code quality of the things I build.<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
+<!--Language and Tools-->
 **Languages and Tools:**
 
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"></code>
@@ -26,17 +28,29 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" alt="photoshop"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/latex/latex-original.svg" alt="latex"></code>
 
-<!--
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
--->
+<br>
 
+<!--Projects-->
+**My Projects:**
 
+<a href="https://github.com/Lennolium/PrivacyShield">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lennolium&repo=privacyshield" />
+</a>
+<a href="https://github.com/lennolium/lennolium">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lennolium&repo=lennolium" />
+</a>
+
+<br><br>
+
+<!--Stats-->
 ![Lennolium's GitHub stats](https://github-readme-stats.vercel.app/api?username=lennolium&show_icons=true&theme=radical&count_private=true)
+
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lennolium&hide_border=true" />
 
 
 <br>
 
+<!--Detailed Info-->
 <details>	
   <br />
   <summary><b>⚙️ Hardware & Software</b></summary>
@@ -65,6 +79,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <br>
 
+<!--Visitors/End of Page-->
 [![Visitors](https://komarev.com/ghpvc/?username=lennolium&label=PROFILE+VIEWS&logoColor=0e76a8&style=for-the-badge)](https://github.com/Lennolium)
 
 
