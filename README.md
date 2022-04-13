@@ -2,7 +2,7 @@
 
 <!-- Badges. These are all placeholders until I'm a real professional :D -->
 [![Website](https://img.shields.io/website?label=lennolium.dev&style=for-the-badge&url=https://github.com/Lennolium)](https://github.com/Lennolium)
-[![Linkedin](https://img.shields.io/twitter/follow/abhisheknaiidu?color=0E76A8&label=%40Lennarthaack&logo=linkedin&logoColor=0e76a8&style=for-the-badge)](https://www.linkedin.com/in/lennart-haack-59b7a3237/)
+[![Linkedin](https://img.shields.io/twitter/follow/abhisheknaiidu?color=0E76A8&label=Lennarthaack&logo=linkedin&logoColor=0e76a8&style=for-the-badge)](https://www.linkedin.com/in/lennart-haack-59b7a3237/)
 [![Instagram](https://img.shields.io/twitter/follow/kuketzblog?color=e23f5d&label=%40Lennarthaack&logo=instagram&style=for-the-badge)](https://www.instagram.com/lennarthaack/)
 
 <br>
@@ -36,16 +36,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <a href="https://github.com/Lennolium/PrivacyShield">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lennolium&repo=privacyshield" />
 </a>
-<a href="https://github.com/lennolium/lennolium">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lennolium&repo=lennolium" />
-</a>
 
 <br><br>
 
 <!--Stats-->
-![Lennolium's GitHub stats](https://github-readme-stats.vercel.app/api?username=lennolium&show_icons=true&theme=radical&count_private=true)
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lennolium&hide_border=true" />
+![Lennolium's GitHub stats](https://github-readme-stats.vercel.app/api?username=lennolium&show_icons=true&theme=default&count_private=true&hide_border=true) <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lennolium&hide_border=true" />
 
 
 <br>
