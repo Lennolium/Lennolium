@@ -1,4 +1,4 @@
-### Hi there, I'm [Lennart][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm [Lennart][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- Badges. These are all placeholders until I'm a real professional :D -->
 [![Website](https://img.shields.io/website?label=lennolium.dev&style=for-the-badge&url=https://github.com/Lennolium)](https://github.com/Lennolium)
@@ -31,7 +31,7 @@ I'm also an open-source enthusiast and maintainer. I've learned a lot from the o
 <br>
 
 <!--Projects-->
-**My Projects:**
+**I am currently working on:**
 
 <a href="https://github.com/Lennolium/PrivacyShield">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lennolium&repo=privacyshield" />
@@ -40,12 +40,17 @@ I'm also an open-source enthusiast and maintainer. I've learned a lot from the o
 <br><br>
 
 <!--Stats-->
-**My Stats:**
-
 ![Lennolium's GitHub stats](https://github-readme-stats.vercel.app/api?username=lennolium&show_icons=true&theme=default&count_private=true) 
 
 <br>
 <!--Detailed Info-->
+
+<details>	
+  <br />
+  <summary><b>📈 Github Metrics</b></summary>	
+<img src="https://metrics.lecoq.io/Lennolium?template=classic&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FBerlin" />	
+</details>
+
 <details>	
   <br />
   <summary><b>🔥 Github Streaks</b></summary>
@@ -85,6 +90,14 @@ I'm also an open-source enthusiast and maintainer. I've learned a lot from the o
 
 <!--Visitors/End of Page-->
 [![Visitors](https://komarev.com/ghpvc/?username=lennolium&label=PROFILE+VIEWS&logoColor=0e76a8&style=for-the-badge)](https://github.com/Lennolium)
+
+#
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C62C2C&center=true&vCenter=true&width=700&lines=Show+some+%E2%9D%A4%EF%B8%8F+by+starring+some+of+my+repositories!)](https://git.io/typing-svg)
+	
+</div>
 
 <br>
 
