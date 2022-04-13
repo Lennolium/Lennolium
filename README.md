@@ -1,7 +1,7 @@
 ## Hi there, I'm [Lennart][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- Badges. These are all placeholders until I'm a real professional :D -->
-[![Website](https://img.shields.io/website?label=lennolium.dev&style=for-the-badge&url=https://github.com/Lennolium)](https://github.com/Lennolium)
+[![Website](https://img.shields.io/website?label=lennolium.dev&logo=html&style=for-the-badge&url=https://github.com/Lennolium)](https://github.com/Lennolium)
 [![Linkedin](https://img.shields.io/twitter/follow/abhisheknaiidu?color=0E76A8&label=Lennarthaack&logo=linkedin&logoColor=0e76a8&style=for-the-badge)](https://www.linkedin.com/in/lennart-haack-59b7a3237/)
 [![Instagram](https://img.shields.io/twitter/follow/kuketzblog?color=e23f5d&label=%40Lennarthaack&logo=instagram&style=for-the-badge)](https://www.instagram.com/lennarthaack/)
 
@@ -90,6 +90,7 @@ I'm also an open-source enthusiast and maintainer. I've learned a lot from the o
 
 <!--Visitors/End of Page-->
 [![Visitors](https://komarev.com/ghpvc/?username=lennolium&label=PROFILE+VIEWS&logoColor=0e76a8&style=for-the-badge)](https://github.com/Lennolium)
+[![Donate](https://img.shields.io/twitter/follow/kuketzblog?color=e23f5d&label=Donate&logo=paypal&style=for-the-badge)](https://www.instagram.com/lennarthaack/)
 
 #
 
