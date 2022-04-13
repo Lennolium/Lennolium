@@ -1,6 +1,6 @@
 ### Hi there, I'm [Lennart][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!-- These are all placeholders for when I'm a real professional -->
+<!-- These are all placeholders until I'm a real professional :D -->
 [![Website](https://img.shields.io/website?label=lennolium.dev&style=for-the-badge&url=https://github.com/Lennolium)](https://github.com/Lennolium)
 [![Linkedin](https://img.shields.io/twitter/follow/abhisheknaiidu?color=0E76A8&label=%40Lennarthaack&logo=linkedin&logoColor=0e76a8&style=for-the-badge)](https://linkedin.com/in/lennarthaack)
 [![Instagram](https://img.shields.io/twitter/follow/kuketzblog?color=e23f5d&label=%40Lennarthaack&logo=instagram&style=for-the-badge)](https://www.instagram.com/lennarthaack/)
@@ -15,11 +15,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6875](https://github.com/libretro/RetroArch/issues/6875) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
-2. 🗣 Commented on [#6875](https://github.com/libretro/RetroArch/issues/6875) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
-3. 🗣 Commented on [#6875](https://github.com/libretro/RetroArch/issues/6875) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
-4. 🗣 Commented on [#6875](https://github.com/libretro/RetroArch/issues/6875) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
-5. 🗣 Commented on [#1903](https://github.com/Provenance-Emu/Provenance/issues/1903) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#6](https://github.com/Lennolium/PrivacyShield/discussions/6#discussioncomment-2472698) in [Lennolium/PrivacyShield](https://github.com/Lennolium/PrivacyShield)
+2. 📣 Released [v.1.0.1](https://github.com/Lennolium/PrivacyShield/discussions/6#discussion-3925989) in [Lennolium/PrivacyShield](https://github.com/Lennolium/PrivacyShield)
+3. 🗣 Commented on [#1](https://github.com/Lennolium/PrivacyShield/discussions/1) in [Lennolium/PrivacyShield](https://github.com/Lennolium/PrivacyShield)
+4. 📣 Released [v.1.0.0](https://github.com/Lennolium/PrivacyShield/discussions/6#discussion-3925989) in [Lennolium/PrivacyShield](https://github.com/Lennolium/PrivacyShield)
+5. 📝 Created [README.md](https://github.com/Lennolium/Lennolium/blob/main/README.md) in [Lennolium/Lennolium](https://github.com/Lennolium/PrivacyShield)
 <!--END_SECTION:activity-->
 
 </details>
@@ -28,3 +28,5 @@
 [website]: https://github.com/Lennolium
 [linkedin]: https://linkedin.com/in/lennarthaack
 [instagram]: https://instagram.com/lennarthaack
+
+<!-- Credits for this awesome README.md go to JoeMatt. Thanks for your great work! -->
