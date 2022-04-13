@@ -15,9 +15,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/Lennolium/PrivacyShield/discussions/6#discussioncomment-2472698) in [Lennolium/PrivacyShield](https://github.com/Lennolium/PrivacyShield)
-2. 📣 Released [v.1.0.1](https://github.com/Lennolium/PrivacyShield/discussions/6#discussion-3925989) in [Lennolium/PrivacyShield](https://github.com/Lennolium/PrivacyShield)
-3. 🗣 Commented on [#1](https://github.com/Lennolium/PrivacyShield/discussions/1) in [Lennolium/PrivacyShield](https://github.com/Lennolium/PrivacyShield)
+1. 📣 Released [v.1.1.0](https://github.com/Lennolium/PrivacyShield/discussions/6#discussion-3925989) in [Lennolium/PrivacyShield](https://github.com/Lennolium/PrivacyShield)
+2. 🗣 Commented on [#6](https://github.com/Lennolium/PrivacyShield/discussions/6#discussioncomment-2472698) in [Lennolium/PrivacyShield](https://github.com/Lennolium/PrivacyShield)
+3. 📣 Released [v.1.0.1](https://github.com/Lennolium/PrivacyShield/discussions/6#discussion-3925989) in [Lennolium/PrivacyShield](https://github.com/Lennolium/PrivacyShield)
 4. 📣 Released [v.1.0.0](https://github.com/Lennolium/PrivacyShield/discussions/6#discussion-3925989) in [Lennolium/PrivacyShield](https://github.com/Lennolium/PrivacyShield)
 5. 📝 Created [README.md](https://github.com/Lennolium/Lennolium/blob/main/README.md) in [Lennolium/Lennolium](https://github.com/Lennolium/PrivacyShield)
 <!--END_SECTION:activity-->
