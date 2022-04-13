@@ -11,8 +11,23 @@
 ![Lennolium's GitHub stats](https://github-readme-stats.vercel.app/api?username=lennolium&show_icons=true&theme=radical&count_private=true)
 
 
+<details>	
+  <br />
+  <summary><b>⚙️ Hardware & Software</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> MacOS 11.6.5, Windows 10 Pro 21H2, Ubuntu 21.10, Qubes 4.1.0</li>
+	    <li><b>Desktop: </b> Alienware X51 R3 (i7)</li>
+      <li><b>Laptop: </b> Apple MacBook Pro 13', Mid 2014 (i5)</li>
+  	    <li><b>Browser: </b> Safari & Brave</li>
+	    <li><b>Code Editor:</b> IntelliJ, PyCharm & VSCode</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Linkedin, Schneier on Security and Kuketzblog.</li>
+	</ul>	
+</details>
+
+
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+    <br />
+  <summary><b>:zap: Recent GitHub Activity</b></summary>
 
 <!--START_SECTION:activity-->
 1. 📣 Released [v.1.0.2](https://github.com/Lennolium/PrivacyShield/discussions/6#discussion-3925989) in [Lennolium/PrivacyShield](https://github.com/Lennolium/PrivacyShield)
