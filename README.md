@@ -88,7 +88,7 @@ I'm also an open-source enthusiast and maintainer. I've learned a lot from the o
 </details>
 <br>
 
-<!--Visitors/End of Page-->
+<!--End of Page-->
 [![Visitors](https://komarev.com/ghpvc/?username=lennolium&label=PROFILE+VIEWS&color=f75e61&style=for-the-badge)](https://github.com/Lennolium)
 [![Donate](https://img.shields.io/badge/Donate-Paypal-blue?style=for-the-badge&logo=paypal)](https://www.paypal.me/smogg)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20me%20a-Coffee-f5d132?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/lennolium)
