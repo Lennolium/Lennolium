@@ -2,7 +2,7 @@
 
 <!-- Badges. These are all placeholders until I'm a real professional :D -->
 [![Website](https://img.shields.io/website?label=lennolium.dev&logo=internetexplorer&logoColor=brightgreen&style=for-the-badge&url=https://github.com/Lennolium)](https://github.com/Lennolium)
-[![Linkedin](https://img.shields.io/twitter/follow/abhisheknaiidu?color=0E76A8&label=Lennarthaack&logo=linkedin&logoColor=0e76a8&style=for-the-badge)](https://www.linkedin.com/in/lennart-haack-59b7a3237/)
+[![Linkedin](https://img.shields.io/twitter/follow/abhisheknaiidu?color=blue&label=Lennarthaack&logo=linkedin&logoColor=blue&style=for-the-badge)](https://www.linkedin.com/in/lennart-haack-59b7a3237/)
 [![Instagram](https://img.shields.io/twitter/follow/kuketzblog?color=e23f5d&label=%40Lennarthaack&logo=instagram&style=for-the-badge)](https://www.instagram.com/lennarthaack/)
 
 <br>
@@ -89,14 +89,15 @@ I'm also an open-source enthusiast and maintainer. I've learned a lot from the o
 <br>
 
 <!--Visitors/End of Page-->
-[![Visitors](https://komarev.com/ghpvc/?username=lennolium&label=PROFILE+VIEWS&logoColor=0e76a8&style=for-the-badge)](https://github.com/Lennolium)
-[![Donate](https://img.shields.io/badge/Donate&label=Paypal&color=grey&logo=paypal&style=for-the-badge)](https://www.instagram.com/lennarthaack/)
+[![Visitors](https://komarev.com/ghpvc/?username=lennolium&label=PROFILE+VIEWS&color=f75e61&style=for-the-badge)](https://github.com/Lennolium)
+[![Donate](https://img.shields.io/badge/Donate-Paypal-blue?style=for-the-badge&logo=paypal)](https://www.paypal.me/smogg)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20me%20a-Coffee-f5d132?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/lennolium)
 
 #
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0e76a8&center=true&vCenter=true&width=700&lines=Show+some+%E2%9D%A4%EF%B8%8F+by+starring+some+of+my+repositories!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0E76A8&center=true&vCenter=true&width=600&lines=Show+some+%E2%99%A5+by+starring+some+of+my+repositories!)](https://git.io/typing-svg)
 	
 </div>
 
