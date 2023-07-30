@@ -2,7 +2,7 @@
 
 <!-- Badges. These are all placeholders until I'm a real professional :D -->
 [![Website](https://img.shields.io/website?label=lennolium.dev&logo=internetexplorer&logoColor=brightgreen&style=for-the-badge&url=https://github.com/Lennolium)](https://github.com/Lennolium)
-[![Linkedin](https://img.shields.io/twitter/follow/abhisheknaiidu?color=blue&label=Lennarthaack&logo=linkedin&logoColor=blue&style=for-the-badge)](https://www.linkedin.com/in/lennart-haack-59b7a3237/)
+[![Linkedin](https://img.shields.io/twitter/follow/abhisheknaiidu?color=blue&label=Lennarthaack&logo=linkedin&logoColor=blue&style=for-the-badge)](https://www.linkedin.com/in/lennart-haack/)
 [![Instagram](https://img.shields.io/twitter/follow/kuketzblog?color=e23f5d&label=%40Lennarthaack&logo=instagram&style=for-the-badge)](https://www.instagram.com/lennarthaack/)
 
 <br>
