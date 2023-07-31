@@ -9,7 +9,7 @@
 
 <!--Introduction and GIF-->
 Hey, I'm Lennart Haack, a passionate self-taught full stack web developer and a freelance software engineer from Germany. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
-I take great care in the experience, architecture, and code quality of the things I build.<img align="right" alt="icon" src="https://github.com/Lennolium/Lennolium/blob/main/icon-profile.png?raw=true" width="500" />
+I take great care in the experience, architecture, and code quality of the things I build.<img align="right" alt="icon" src="./icon-profile.png" width="500" />
 
 I'm also an open-source enthusiast and maintainer. I've learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -107,7 +107,7 @@ I'm also an open-source enthusiast and maintainer. I've learned a lot from the o
 
   
 [website]: https://github.com/Lennolium
-[linkedin]: https://www.linkedin.com/in/lennart-haack-59b7a3237/
+[linkedin]: https://www.linkedin.com/in/lennart-haack/
 [instagram]: https://instagram.com/lennarthaack
 
 <!-- Credits for this awesome README.md go to JoeMatt. Thanks for your great work! -->
