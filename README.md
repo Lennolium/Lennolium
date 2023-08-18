@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?label=lennolium.dev&logo=internetexplorer&logoColor=brightgreen&style=for-the-badge&url=https://github.com/Lennolium)](https://github.com/Lennolium)
 [![Linkedin](https://img.shields.io/twitter/follow/abhisheknaiidu?color=blue&label=Lennarthaack&logo=linkedin&logoColor=blue&style=for-the-badge)](https://www.linkedin.com/in/lennart-haack/)
 [![Instagram](https://img.shields.io/twitter/follow/kuketzblog?color=e23f5d&label=%40Lennarthaack&logo=instagram&style=for-the-badge)](https://www.instagram.com/lennarthaack/)
-[![PGP](https://img.shields.io/website?label=OpenPGP&up_message=Key&logo=monkeytie&logoColor=yellow&color=yellow&style=for-the-badge&url=[https://github.com/Lennolium](https://keys.openpgp.org/vks/v1/by-fingerprint/F452A2521A91043CA02D4C065BE3C31EF9DFCEA7))]([https://github.com/Lennolium](https://keys.openpgp.org/vks/v1/by-fingerprint/F452A2521A91043CA02D4C065BE3C31EF9DFCEA7))
+[![PGP](https://img.shields.io/website?label=OpenPGP&up_message=Key&logo=monkeytie&logoColor=yellow&color=yellow&style=for-the-badge&url=https://keys.openpgp.org/search?q=F452A2521A91043CA02D4C065BE3C31EF9DFCEA7)](https://keys.openpgp.org/vks/v1/by-fingerprint/F452A2521A91043CA02D4C065BE3C31EF9DFCEA7)
 <br>
 
 <!--Introduction and GIF-->
