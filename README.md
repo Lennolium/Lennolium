@@ -93,6 +93,8 @@ I'm also an open-source enthusiast and maintainer. I've learned a lot from the o
 [![Donate](https://img.shields.io/badge/Donate-Paypal-blue?style=for-the-badge&logo=paypal)](https://www.paypal.me/smogg)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20me%20a-Coffee-f5d132?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/lennolium)
 
+🔑 OpenPGP: [F452 A252 1A91 043C A02D  4C06 5BE3 C31E F9DF CEA7](https://keys.openpgp.org/vks/v1/by-fingerprint/F452A2521A91043CA02D4C065BE3C31EF9DFCEA7)
+
 #
 
 <div align="center">
