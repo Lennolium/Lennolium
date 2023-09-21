@@ -34,8 +34,8 @@ I'm also an open-source enthusiast and maintainer. I've learned a lot from the o
 <!--Projects-->
 **I am currently working on:**
 
-<a href="https://github.com/Lennolium/PrivacyShield">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lennolium&repo=privacyshield" />
+<a href="https://github.com/Lennolium/swiftGuard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lennolium&repo=swiftguard" />
 </a>
 
 <br><br>
