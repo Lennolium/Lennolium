@@ -1,7 +1,7 @@
 ## Hi there, I'm [Lennart][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">
 
 <!-- Badges. These are all placeholders until I'm a real professional :D -->
-[![Website](https://img.shields.io/website?label=lennolium.dev&logo=internetexplorer&logoColor=brightgreen&style=for-the-badge&url=https://github.com/Lennolium)](https://github.com/Lennolium)
+[![Website](https://img.shields.io/website?label=lennolium.dev&logo=internetexplorer&logoColor=brightgreen&style=for-the-badge&url=https://lennolium.dev)](https://lennolium.dev)
 [![Linkedin](https://img.shields.io/github/followers/lennolium?color=blue&label=Lennarthaack&logo=linkedin&logoColor=blue&style=for-the-badge)](https://www.linkedin.com/in/lennart-haack/)
 [![PGP](https://img.shields.io/website?label=OpenPGP&up_message=Key&logo=monkeytie&logoColor=yellow&color=yellow&style=for-the-badge&url=https://keys.openpgp.org/search?q=F452A2521A91043CA02D4C065BE3C31EF9DFCEA7)](https://keys.openpgp.org/vks/v1/by-fingerprint/F452A2521A91043CA02D4C065BE3C31EF9DFCEA7)
 <br>
