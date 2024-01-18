@@ -85,6 +85,8 @@ I'm also an open-source enthusiast and maintainer. I've learned a lot from the o
 
 #
 
+<br>
+
 🔑 OpenPGP: [F452 A252 1A91 043C A02D  4C06 5BE3 C31E F9DF CEA7](https://keys.openpgp.org/vks/v1/by-fingerprint/F452A2521A91043CA02D4C065BE3C31EF9DFCEA7)
 
 <br>
