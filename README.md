@@ -37,13 +37,13 @@ I'm also an open-source enthusiast and maintainer. I've learned a lot from the o
 <!--Projects-->
 **I am currently working on:**
 <a href="https://github.com/Lennolium/swiftGuard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lennolium&repo=swiftguard" />
+  <img height="120em" src="https://ghrb.waren.build/render/banner?header=%21%5Bgithub%5D+swiftGuard&subheader=Anti-forensic+macOS+tray+app+to+safeguard+your+system&bg=013B84-016EEA&color=FFFFFF&headerfont=Montserrat&subheaderfont=Kinewave" />
 </a>
 
 <br><br>
 
 <!--Stats-->
-![Lennolium's GitHub stats](https://github-readme-stats.vercel.app/api?username=lennolium&show_icons=true&theme=default&count_private=true) 
+<!--![Lennolium's GitHub stats](https://github-readme-stats.vercel.app/api?username=lennolium&show_icons=true&theme=default&count_private=true) -->
 
 <br>
 <!--Detailed Info-->
